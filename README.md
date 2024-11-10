@@ -76,3 +76,4 @@ olleH
 It`s my first editing  
 Hello from Novorossiysk!
 Hello from Ufa!
+Hi from Krsk.
